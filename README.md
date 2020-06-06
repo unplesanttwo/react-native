@@ -1,10 +1,9 @@
 <h1 align="center">
-  <a href="https://reactnative.dev/">
-    React Native
+    React Nativ
   </a>
 </h1>
 
-<p align="center">
+<p align="center"
   <strong>Learn once, write anywhere:</strong><br>
   Build mobile apps with React.
 </p>
@@ -19,7 +18,7 @@
   <a href="https://www.npmjs.org/package/react-native">
     <img src="https://badge.fury.io/js/react-native.svg" alt="Current npm package version." />
   </a>
-  <a href="https://reactnative.dev/docs/contributing">
+  <a href="https://reactnative.dev/docs/contributing
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=reactnative">
